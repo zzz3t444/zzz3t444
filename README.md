@@ -40,7 +40,7 @@
 </p>
 
 <hr>
-<h2 align="center"> <img title="JSON" height="25" src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/200w.gif?cid=6c09b952kmthrw6or4tgsuetjij5vl2ljfs0jcsl20f7z2nk&ep=v1_gifs_search&rid=200w.gif&ct=s"> Languages & Frameworks & Tools & Abilities<img title="JSON" height="25" src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/200w.gif?cid=6c09b952kmthrw6or4tgsuetjij5vl2ljfs0jcsl20f7z2nk&ep=v1_gifs_search&rid=200w.gif&ct=s"> </h2>
+<h2 align="center"> <img title="JSON" height="25" src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/200w.gif?cid=6c09b952kmthrw6or4tgsuetjij5vl2ljfs0jcsl20f7z2nk&ep=v1_gifs_search&rid=200w.gif&ct=s"> Languages & Frameworks & Tools & Abilities <img title="JSON" height="25" src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/200w.gif?cid=6c09b952kmthrw6or4tgsuetjij5vl2ljfs0jcsl20f7z2nk&ep=v1_gifs_search&rid=200w.gif&ct=s"> </h2>
 <br>
 <p align="center">
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
