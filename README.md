@@ -94,6 +94,12 @@
 
 <hr>
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yco6mkeps3ryd5dm6mrm33tobi&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="spotify-github-profile">
+  </a>
+</p>
+
 <h4 align="center">
   <a href="https://github.com/z3t444?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
