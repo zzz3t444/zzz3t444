@@ -70,12 +70,12 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
-   <code><img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  /></code>
-  <code><img src="https://skillicons.dev/icons?i=pug" height="30" alt="pug logo"  /></code>
+   <code><img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=vite" height="25" alt="vite logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=vercel" height="25" alt="vercel logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=vue" height="25" alt="vuejs logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=vscode" height="25" alt="vscode logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=pug" height="25" alt="pug logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=netlify" height="25" alt="netlify logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=figma" height="25" alt="figma logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=svelte" height="25" alt="svelte logo"  /></code>
