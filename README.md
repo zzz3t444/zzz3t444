@@ -67,7 +67,6 @@
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <code><img title="Flask" height="25" src="images/flask.png"></code>
    <code><img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=vite" height="25" alt="vite logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=vercel" height="25" alt="vercel logo"  /></code>
