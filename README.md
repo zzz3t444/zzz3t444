@@ -113,5 +113,5 @@
 <hr>
 
 <div align="center"
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" height="150" alt="snake"  />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" height="150" alt="snake"/>
 </div>
