@@ -71,6 +71,9 @@
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
   <code><img src="https://skillicons.dev/icons?i=solidjs" height="25" alt="solid logo"/></code>
+  <code><img src="https://skillicons.dev/icons?i=netlify" height="25" alt="netlify logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=figma" height="25" alt="figma logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=svelte" height="25" alt="svelte logo"  /></code>
 </p>
 <hr>
 
