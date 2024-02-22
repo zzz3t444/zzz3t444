@@ -110,3 +110,8 @@
   <a href="https://github.com/z3t444?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+<hr>
+
+<img src="https://raw.githubusercontent.com/z3t444/z3t444/output/snake.svg" alt="Snake animation" />
+
+###
