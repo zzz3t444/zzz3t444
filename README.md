@@ -1,4 +1,4 @@
-
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=z3t444.z3t444">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -7,7 +7,6 @@
 </h1>
 
 <div align="center">
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=z3t444.z3t444">
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/z3t444)](https://twitter.com/z3t444)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zeeta/)
