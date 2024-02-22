@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
 
+
+
 <br>
 <p align="center">
   Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Zeeta, YouTube Creator and Frontend Developer.
@@ -95,3 +97,21 @@
 <h4 align="center">
   <a href="https://github.com/z3t444?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+<div align="center">
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fz3t444%2Fz3t444&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/z3t444)](https://twitter.com/z3t444)
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zeeta/)
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/zzz_3t44/)](https://www.instagram.com/zzz_3t44)
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ebdtv4@gmail.com)
+
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://rebuildnunino.netlify.app)](https://rebuildnunino.netlify.app)
+
+[![Github](https://img.shields.io/github/followers/z3t444?label=Follow&style=social)](https://github.com/z3t444)
+
+</div>
