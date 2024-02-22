@@ -22,12 +22,12 @@
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-🏫 I went to SMK Muhammadyah Yogyakarta
-🏆️ I have experienced participating in the olympicad program organized by Muhammadyah. 🏆️
-🎓 I'm currently deepening a UI UX layout coder (Compile Design)
-🎓 was born with a passion for the exciting pursuit of digital knowledge.
-💻 I've been an experienced frontend coder using popular frameworks.
-📚 the first time I learned the framework using Vue JS
+- 🏫 I went to SMK Muhammadyah Yogyakarta
+- 🏆️ I have experienced participating in the olympicad program organized by Muhammadyah. 🏆️
+- 🎓 I'm currently deepening a UI UX layout coder (Compile Design)
+- 🎓 was born with a passion for the exciting pursuit of digital knowledge.
+- 💻 I've been an experienced frontend coder using popular frameworks.
+- 📚 the first time I learned the framework using Vue JS
 
 
 </td><td valign="top" width="50%">
