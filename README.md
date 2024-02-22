@@ -30,24 +30,24 @@
 
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  hello, I am zeeta a youtube content creator and frontend web developer from Indonesia.
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🏫 I went to SMK Muhammadyah Yogyakarta
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  🎓 I have experienced participating in the olympicad program organized by Muhammadyah.
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  🎓 I'm currently deepening a UI UX layout coder (Compile Design)
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  🎓 was born with a passion for the exciting pursuit of digital knowledge.
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I've been an experienced frontend coder using popular frameworks.
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  📚 the first time I learned the framework using Vue JS
   <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: ebdtv4@gmail.com">ebdtv4@gmail.com</a>
 </p>
 
 <hr>
