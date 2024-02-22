@@ -30,7 +30,7 @@
 
 <br>
 <p align="center">
-  hello, I am zeeta a youtube content creator and frontend web developer from Indonesia.
+  <h4 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Zeeta, YouTube Creator and Frontend Developer.</h4>
   <br>
   <br>
   🏫 I went to SMK Muhammadyah Yogyakarta
