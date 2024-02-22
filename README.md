@@ -104,13 +104,12 @@
   </a>
 </p>
 
-
-<h4 align="center">
-  <a href="https://github.com/z3t444?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
-
 <hr>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" height="180" alt="snake"/>
 </div>
+
+<h4 align="center">
+  <a href="https://github.com/z3t444?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
