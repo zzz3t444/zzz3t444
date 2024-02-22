@@ -1,4 +1,4 @@
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=z3t444.z3t444">
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -8,7 +8,7 @@
 
 <div align="center">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fz3t444%2Fz3t444&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=z3t444.z3t444">
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/z3t444)](https://twitter.com/z3t444)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zeeta/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/zzz_3t44/)](https://www.instagram.com/zzz_3t44)
