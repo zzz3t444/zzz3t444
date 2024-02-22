@@ -98,6 +98,10 @@
   <a href="https://github.com/z3t444?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yco6mkeps3ryd5dm6mrm33tobi&unique={true|1|on|yes}" alt="Spotify Recently Played">
+</p>
+
 
 <!--
 **zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
