@@ -70,7 +70,7 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="Flask" height="25" src="images/flask.png"></code>
-  <code><img src="https://skillicons.dev/icons?i=solidjs" height="30" alt="solid logo"/></code>
+  <code><img src="https://skillicons.dev/icons?i=solidjs" height="25" alt="solid logo"/></code>
 </p>
 <hr>
 
