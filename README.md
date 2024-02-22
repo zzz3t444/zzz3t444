@@ -112,6 +112,5 @@
 
 <hr>
 
-<img src="https://raw.githubusercontent.com/z3t444/z3t444/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" height="150" alt="snake"  />
 
-###
