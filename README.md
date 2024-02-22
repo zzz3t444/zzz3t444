@@ -30,7 +30,7 @@
 
 <br>
 <p align="center">
-  <h4 align="center" > Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Zeeta, YouTube Creator and Frontend Developer.</h4>
+  Hii <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Zeeta, YouTube Creator and Frontend Developer.
   <br>
   <br>
   🏫 I went to SMK Muhammadyah Yogyakarta
