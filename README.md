@@ -69,6 +69,11 @@
 </p>
 <hr>
 
+<h2 align="center">YouTube Channel</h2>
+<div align="center">
+  <img width="50%" src="images/YouTube_Channel_qrcode.png"/>
+</div>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
