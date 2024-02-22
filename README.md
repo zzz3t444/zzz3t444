@@ -45,8 +45,6 @@
   <br>
   📚 the first time I learned the framework using Vue JS
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
   📫 How to reach me: <a href="mailto: ebdtv4@gmail.com">ebdtv4@gmail.com</a>
 </p>
 
