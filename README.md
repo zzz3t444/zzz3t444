@@ -95,7 +95,7 @@
 
 <p align="center">
   <a href="https://github.com/z3t444">
-    <img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z3t444&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
+    <img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z3t444&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=ffffff"/>
     <img width="25%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z3t444&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
     <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=z3t444&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
   </a>
