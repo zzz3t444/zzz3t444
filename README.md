@@ -40,7 +40,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center"> <img title="JSON" height="25" src="https://media3.giphy.com/media/sRW4SCnxfcx1LaFBtt/200w.gif?cid=6c09b952kmthrw6or4tgsuetjij5vl2ljfs0jcsl20f7z2nk&ep=v1_gifs_search&rid=200w.gif&ct=s"> Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
@@ -57,7 +57,7 @@
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
-   <code><img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo"  /></code>
+  <code><img src="https://skillicons.dev/icons?i=tailwind" height="25" alt="tailwindcss logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=vite" height="25" alt="vite logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=vercel" height="25" alt="vercel logo"  /></code>
   <code><img src="https://skillicons.dev/icons?i=vue" height="25" alt="vuejs logo"  /></code>
