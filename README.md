@@ -98,6 +98,5 @@
     <img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z3t444&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=000000"/>
     <img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z3t444&layout=compact&langs_count=10&theme=dark&bg_color=000000"/>
     <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=z3t444&theme=highcontrast&fire=ffffff&ring=ffffff&border=ffffff&currStreakLabel=ffffff"/>
-    <img width="30%" src="https://github-profile-trophy.vercel.app/?username=z3t444&theme=onestar&column=4&margin-w=10&margin-h=10"/>
   </a>
 </p>
