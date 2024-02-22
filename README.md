@@ -74,6 +74,8 @@
   <img width="20%" src="images/YouTube_Channel_qrcode.png"/>
 </div>
 
+<hr>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
