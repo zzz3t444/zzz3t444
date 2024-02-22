@@ -81,7 +81,7 @@
 
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Statistic ⚡</h2>
 <br>
 <div align="center">
  <img width="35%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z3t444&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=20232a"/>
