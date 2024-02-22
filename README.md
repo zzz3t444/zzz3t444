@@ -88,6 +88,11 @@
     <img width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z3t444&theme=react&show_icons=true&hide_border=true&layout=compact"/>
   <img src="https://streak-stats.demolab.com?user=z3t444&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&border=3" height="116" alt="streak graph"  />
 </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=z3t444&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
 
 
 <hr>
