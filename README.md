@@ -74,7 +74,7 @@
 <div align="center">
  <img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z3t444&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=20232a"/>
     <img width="25%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z3t444&layout=compact&langs_count=10&theme=dark&bg_color=20232a"/>
-  <img src="https://streak-stats.demolab.com?user=z3t444&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="140" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=z3t444&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph"  />
 </div>
 
 ###
@@ -91,11 +91,3 @@
   <a href="https://github.com/z3t444?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-
-
-<p align="center">
-  <a href="https://github.com/z3t444">
-    <img width="30%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=z3t444&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFFFFF&bg_color=20232a"/>
-    <img width="25%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=z3t444&layout=compact&langs_count=10&theme=dark&bg_color=20232a"/>
-  </a>
-</p>
