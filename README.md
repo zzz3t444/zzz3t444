@@ -69,7 +69,7 @@
 </p>
 <hr>
 
-<h2 align="center">YouTube Channel <img width="20%" src"https://media0.giphy.com/media/uXZOSmv0glEDpG26VC/giphy.gif/> </h2>
+<h2 align="center">YouTube Channel <img title="JSON" height="25" src="https://media0.giphy.com/media/uXZOSmv0glEDpG26VC/giphy.gif"> </h2>
 <div align="center">
   <img width="20%" src="images/YouTube_Channel_qrcode.png"/>
 </div>
