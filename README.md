@@ -32,6 +32,7 @@
 <p align="center">
   hello, I am zeeta a youtube content creator and frontend web developer from Indonesia.
   <br>
+  <br>
   🏫 I went to SMK Muhammadyah Yogyakarta
   <br>
   🎓 I have experienced participating in the olympicad program organized by Muhammadyah.
@@ -43,6 +44,7 @@
   💻 I've been an experienced frontend coder using popular frameworks.
   <br>
   📚 the first time I learned the framework using Vue JS
+  <br>
   <br>
   📫 How to reach me: <a href="mailto: ebdtv4@gmail.com">ebdtv4@gmail.com</a>
 </p>
