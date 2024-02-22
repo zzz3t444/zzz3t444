@@ -104,7 +104,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzz3t444&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzz3t444&hide_border=true&layout=compact" align="left" style="width: 90%" />
 
 </td></tr></table>  
 
