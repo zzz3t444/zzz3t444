@@ -98,9 +98,10 @@
   <a href="https://github.com/z3t444?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yco6mkeps3ryd5dm6mrm33tobi&width={width}" alt="Spotify Recently Played">
-</p>
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yco6mkeps3ryd5dm6mrm33tobi&count={count}" alt="Spotify Recently Played">
+</div>
+
 
 
 
