@@ -32,7 +32,6 @@
 <p align="center">
   hello, I am zeeta a youtube content creator and frontend web developer from Indonesia.
   <br>
-  <br>
   🏫 I went to SMK Muhammadyah Yogyakarta
   <br>
   🎓 I have experienced participating in the olympicad program organized by Muhammadyah.
