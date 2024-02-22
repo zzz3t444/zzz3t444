@@ -25,7 +25,7 @@
   <br>
   🏫 I went to SMK Muhammadyah Yogyakarta
   <br>
-  🎓 I have experienced participating in the olympicad program organized by Muhammadyah.
+  🏆️ I have experienced participating in the olympicad program organized by Muhammadyah. 🏆️
   <br>
   🎓 I'm currently deepening a UI UX layout coder (Compile Design)
   <br>
