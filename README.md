@@ -1,8 +1,4 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/126560008?v=4"  />
-</div>
 
-<hr>
 
 <div align="center">
   <a href="https://www.youtube.com/zeeta39" target="_blank">
