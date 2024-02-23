@@ -40,7 +40,7 @@
 
 <h3 align="center">🛠 Language and tools</h3>
 
-<br>
+
 
 <p align="center">
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
