@@ -2,7 +2,7 @@
   <img height="150" src="https://avatars.githubusercontent.com/u/126560008?v=4"  />
 </div>
 
-###
+<hr>
 
 <div align="center">
   <a href="https://www.youtube.com/zeeta39" target="_blank">
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
-###
+<hr>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zzz3t444.zzz3t444&"  />
@@ -36,7 +36,12 @@
 
 ###
 
+<hr>
+
 <h3 align="center">🛠 Language and tools</h3>
+
+<br>
+
 <p align="center">
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
@@ -63,8 +68,7 @@
   <code><img src="https://skillicons.dev/icons?i=svelte" height="25" alt="svelte logo"  /></code>
 </p>
 
-
-###
+<hr>
 
 <h3 align="center">🔥   My Stats :</h3>
 
