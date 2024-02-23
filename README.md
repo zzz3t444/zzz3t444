@@ -1,75 +1,105 @@
-## Hey 👋, I'm Zeeta  
-  
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/126560008?v=4"  />
+</div>
 
-<a href="https://github.com/zzz3t444" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/zzz_3t44" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/Zeeta39" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-  
-
-
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🏫 I went to SMK Muhammadyah Yogyakarta
-- 🏆️ I have experienced participating in the olympicad program organized by Muhammadyah. 🏆️
-- 🎓 I'm currently deepening a UI UX layout coder (Compile Design)
-- 🎓 was born with a passion for the exciting pursuit of digital knowledge.
-- 💻 I've been an experienced frontend coder using popular frameworks.
-- 📚 the first time I learned the framework using Vue JS
-
-
-</td><td valign="top" width="50%">
+###
 
 <div align="center">
-<img src="https://media4.giphy.com/media/tJBbViYLyvVVIOi4Rq/giphy.gif" align="center" style="width: 100%" />
-</div>  
+  <a href="https://www.youtube.com/zeeta39" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.facebook.com/afkarezi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/zzz_3t44" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="ebdttv4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
 
+###
 
-</td></tr></table>  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zzz3t444.zzz3t444&"  />
+</div>
 
-<br/>  
+###
 
+<h3 align="center">Hii  , I'm Zeeta, YouTube Creator and Frontend Developer.</h3>
 
+###
 
+<p align="center">🏫 I went to SMK Muhammadyah Yogyakarta<br>🏆️ I have experienced participating in the olympicad program organized by Muhammadyah. 🏆️<br>🎓 I'm currently deepening a UI UX layout coder (Compile Design)<br>🎓 was born with a passion for the exciting pursuit of digital knowledge.<br>💻 I've been an experienced frontend coder using popular frameworks.<br>📚 the first time I learned the framework using Vue JS</p>
 
-<br/>  
+###
 
+<h3 align="center">🛠 Language and tools</h3>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+###
 
-<img src="https://github-readme-stats.vercel.app/api?username=zzz3t444&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<h3 align="center">🔥   My Stats :</h3>
 
-</td><td valign="top" width="50%">
+###
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzz3t444&hide_border=true&layout=compact" align="left" style="width: 75%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=z3t444&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=z3t444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=z3t444&locale=en&mode=daily&theme=ayu-mirage&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-</td></tr></table>  
+###<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/126560008?v=4"  />
+</div>
 
-<br/>  
+###
 
-  
+<div align="center">
+  <a href="https://www.youtube.com/zeeta39" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://www.facebook.com/afkarezi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/zzz_3t44" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="ebdttv4@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
 
-<br/>  
+###
 
-![Profile views counter](https://komarev.com/ghpvc/?username=zzz3t444&&style=flat-square)  
-  
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=zzz3t444.zzz3t444&"  />
+</div>
 
-<br/>  
+###
 
+<h3 align="center">Hii  , I'm Zeeta, YouTube Creator and Frontend Developer.</h3>
 
-<br />
+###
 
+<p align="center">🏫 I went to SMK Muhammadyah Yogyakarta<br>🏆️ I have experienced participating in the olympicad program organized by Muhammadyah. 🏆️<br>🎓 I'm currently deepening a UI UX layout coder (Compile Design)<br>🎓 was born with a passion for the exciting pursuit of digital knowledge.<br>💻 I've been an experienced frontend coder using popular frameworks.<br>📚 the first time I learned the framework using Vue JS</p>
 
+###
+
+<h3 align="center">🛠 Language and tools</h3>
+
+###
+
+<h3 align="center">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zzz3t444&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zzz3t444&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ayu-mirage&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=zzz3t444&locale=en&mode=daily&theme=ayu-mirage&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
