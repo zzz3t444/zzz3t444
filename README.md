@@ -20,7 +20,6 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
 </div>
 
-<hr>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=zzz3t444.zzz3t444&"  />
