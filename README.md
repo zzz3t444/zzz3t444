@@ -76,20 +76,3 @@
 
 
 
-
-### Hi there, I'm Dzaky Abdurrahman 👋
-
-I am committed to producing results that are beneficial to others. I face challenges directly and try to overcome them. I am optimistic, but I am also realistic about the current situation and my ability to improve it.
-
-- 🎯 I focus on front-end and nodejs back-end development
-- 🏢 Im live in indonesia
-- 💬 Ask me about anything [here](https://github.com/archergu/dzakyabdurhmn/issues)
-
-**Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> |  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> |  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/electron/electron.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/37c71fdca4e12086faf8c7009793d2eb588c914e/topics/nestjs/nestjs.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code> |<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code> | <code><img height="20" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/kubernetes/kubernetes.png"></code>
-
-
-| <a href="https://github.com/dzakyabdurhmn"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dzakyabdurhmn&count_private=true&show_icons=true&theme=onedark&hide=issues" alt="Dzakyabdurhmn github stats" /></a> | <a href="https://github.com/dzakyabdurhmn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzakyabdurhmn&layout=compact&theme=onedark" /></a> |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
