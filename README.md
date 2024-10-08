@@ -248,7 +248,7 @@
 
 <br>
 
-<img align="center" width="1000" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1725647658/yvby1hf0rmd6paojqjwe.png"  />
+<img align="center" width="1000" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1728388661/xbcrzyhnc1red8fhh6jg.png"  />
 
 <img align="right" width="1000" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"  />
 
