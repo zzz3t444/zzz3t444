@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" width="1000" src="https://static.vecteezy.com/system/resources/previews/037/346/954/large_2x/ai-generated-the-astronaut-isgraphed-with-the-milky-way-in-the-background-free-photo.jpeg"  />
+    <img align="center" width="1000" src="https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif"  />
 </div>
 
 
