@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
-<img align="center" width="1000" src="https://user-images.githubusercontent.com/89584431/216820527-3547f251-7d3e-4362-92eb-c2fd8fc0192a.gif"  />
+<img align="center" width="1000" src="https://media4.giphy.com/media/YtCAXWS94FZbWiKmKH/giphy.gif?cid=6c09b9527ln3jd328zi479uv3iiro9ol7ow7amzqebvax8wm&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
