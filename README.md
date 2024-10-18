@@ -74,7 +74,7 @@
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
 </div>
 
-<img align="center" width="1000" src="https://i.pinimg.com/originals/a0/90/20/a090200c7dd7977ba06cd6a033ffc3c0.gif"  />
+<img align="center" width="1000" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"  />
 
 <img align="center" width="1000" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"  />
 
