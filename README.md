@@ -227,7 +227,7 @@
 
 <br>
 
-<h3 align="center">Prioritu Tools and Language</h3>
+<h3 align="center">Priority Tools and Language</h3>
 
 <div align="center">
     <img align="center" width="100" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"  />
@@ -245,7 +245,7 @@
 
 <br>
 
-<img align="center" width="1000" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1728388735/nw6woev3qqe8mpnd621y.png"  />
+<img align="center" width="1000" src="https://res.cloudinary.com/ddy7p8yrj/image/upload/v1729260171/mtzd9z9cedgtmd0trohy.png"  />
 
 <img align="right" width="1000" src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"  />
 
